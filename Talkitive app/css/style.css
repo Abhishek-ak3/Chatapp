@@ -1,0 +1,80 @@
+/* #chatimg {
+    display: block;
+    margin: auto;
+    height: 80px;
+}
+
+body {
+    background-image: linear-gradient(rgb(6, 109, 6), rgb(111, 213, 111));
+    
+}
+.boxy{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* border: 2px solid red; */
+    flex-direction: column;
+}
+nav img{
+    border-radius: 23px;
+}
+#Meta {
+    font-size: 2rem;
+    color: #ffff07;
+    background-color: #f12e2e;
+    margin: 8px;
+    border-radius: 10px;
+    padding: 7px;
+}
+
+.container {
+    max-width: 900px;
+    margin: auto;
+    border-radius: 10px;
+    background-color: transparent;
+    border: 2px solid black;
+    height: 80vh;
+    position: relative;
+    overflow-y: auto;
+    font-family: 'Dosis', sans-serif;
+
+}
+
+.message {
+    border: 3px solid black;
+    border-radius: 10px;
+    padding: 10px;
+    font-size: 18px;
+    margin: 15px;
+    color: darkmagenta;
+    width: 170px;
+    background-color: #efefcc;
+}
+
+.left {
+    float: left;
+    clear: both;
+}
+
+.right {
+   float: right;
+   clear: both;
+}
+#send-container{
+    text-align: center;
+    width: 80%;
+    padding: 1px;
+    
+    margin: 3px auto;
+    /* border: 2px solid red; */
+}
+#messageImp{
+    width: 55vw;
+    border-radius: 10px;
+    padding: 10px;
+}
+.btn{
+    padding: 10px;
+    border-radius: 10px;
+    font-size: 17px;
+} */
